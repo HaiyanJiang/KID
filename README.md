@@ -7,6 +7,18 @@ The main KID algorithm is defined in `utils_lda.py`, whose core components are w
 
 
 ## The dependencies of the KID algorithm.
+All dependencies are included in `environment.yml`. To install, run
+```
+conda env create -f environment.yml
+```
+(Make sure you have installed `Anaconda` before running.)
+Then, activate the installed environment by
+```
+conda activate t1.7
+```
+
+## Installation of `ridger` and `pyrfm`
+
 1. The `ridger` provides the main components of the OLS problem.
 2. We use the [pyrfm](https://neonnnnn.github.io/pyrfm/) package to get the random feature transformation in high dimensions.
 
