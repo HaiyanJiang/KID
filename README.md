@@ -53,10 +53,10 @@ python setup.py install
 ## How to use the package?
 ### Three steps
 There are some util functions:
-- utils_lda.py
-- cv_clf.py
-- lda_rf_sgd.py
-- args.py
+- `utils_lda.py`
+- `cv_clf.py`
+- `lda_rf_sgd.py`
+- `args.py`
 
 
 1. Change the parameters in `run_rbf.sh` and `run_rft.sh`, and use the following command line to run the simulation
@@ -71,6 +71,6 @@ sh run_rbf.sh  # sh run_rff.sh
 
 ### Tuning parameters
 
-a. RBF kernel gamma=1.0 # feature tranformation
-b. RandomFourier kernel gamma='auto' # gamma=1/X.shape[1].
-c. RandomKernel
+- For RBF kernel, set `gamma=1.0` for features transformation.
+- For RandomFourier kernel, set `gamma='auto'`, which is equivalent to `gamma=1/X.shape[1]`.
+- For RandomKernel, just the default.
