@@ -51,6 +51,15 @@ python setup.py install
 
 
 ## How to use the package?
+
+### Overview
+We provide code and models for our experiments on dataset such as `ARCX`, `ARCZ`, `Colon`, `CNS`, `PGD`, `LSVT`, `Leukemia`.
+
+## Data preparation
+By default, we put the datasets in `./data/Colon/` and save trained models in `./data/Colon/Results/` (taking `Colon` for example). You may also use any other directories you like by setting the `--doc_root` argument to `/your/data/path/`, and the `--transformation` argument to the different kernel transformations when running all experiments below.
+Alternatively, you can try different activation function by changing the `--actfun` argument.
+
+
 ### Three steps
 There are some util functions:
 - `utils_lda.py`
@@ -58,15 +67,18 @@ There are some util functions:
 - `lda_rf_sgd.py`
 - `args.py`
 
-
 1. Change the parameters in `run_rbf.sh` and `run_rft.sh`, and use the following command line to run the simulation
 ```
-conda activate t1.7
-tmux new -s rbf
+# tmux new -s rbf
 conda activate t1.7
 sh run_rbf.sh  # sh run_rff.sh
+
+# or use the following command line running in the background with no hang up
+conda activate t1.7
+nohup sh run_rbf.sh >> output_rbf.log 2>&1 &
+# jobs -l
 ```
-2. The `lda_rf_summary.py` summarize the results of the algorithm.
+2. The `lda_rf_summary.py` summarizes the results of the algorithm.
 3. The `result_assemble.py` assembles all the results.
 
 ### Tuning parameters

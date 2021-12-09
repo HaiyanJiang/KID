@@ -1,0 +1,2405 @@
+python lda_rf_sgd.py --doc_root data/CNS begin
+YES!
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 66.667 (10.541) of DecisionTreeClassifier
+Mean Accuracy: 61.667 (8.498) of RandomForestClassifier
+Mean Accuracy: 60.000 (9.718) of AdaBoostClassifier
+Mean Accuracy: 63.333 (10.000) of GradientBoostingClassifier
+Mean Accuracy: 61.667 (23.921) of GaussianNB
+Mean Accuracy: 55.000 (8.498) of LinearDiscriminantAnalysis
+Mean Accuracy: 45.000 (14.530) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.117 (5.784) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.050 (5.691) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 75.000 (11.785) of DecisionTreeClassifier
+Mean Accuracy: 63.333 (6.667) of RandomForestClassifier
+Mean Accuracy: 65.000 (9.718) of AdaBoostClassifier
+Mean Accuracy: 73.333 (15.275) of GradientBoostingClassifier
+Mean Accuracy: 66.667 (21.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 63.333 (6.667) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.068 (5.789) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 50.000 (5.270) of DecisionTreeClassifier
+Mean Accuracy: 66.667 (0.000) of RandomForestClassifier
+Mean Accuracy: 55.000 (18.708) of AdaBoostClassifier
+Mean Accuracy: 63.333 (17.159) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (26.667) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 53.333 (6.667) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.840 (5.727) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.058 (5.680) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 51.667 (12.247) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 61.667 (11.304) of AdaBoostClassifier
+Mean Accuracy: 55.000 (12.472) of GradientBoostingClassifier
+Mean Accuracy: 61.667 (21.473) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 51.667 (11.055) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.100 (5.641) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 55.000 (6.667) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 55.000 (11.304) of AdaBoostClassifier
+Mean Accuracy: 55.000 (4.082) of GradientBoostingClassifier
+Mean Accuracy: 55.000 (19.437) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 50.000 (14.907) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.902 (5.767) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 56.667 (13.333) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 58.333 (9.129) of AdaBoostClassifier
+Mean Accuracy: 65.000 (6.236) of GradientBoostingClassifier
+Mean Accuracy: 53.333 (15.456) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 60.000 (13.333) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.190 (5.638) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 41.667 (17.480) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 56.667 (8.165) of AdaBoostClassifier
+Mean Accuracy: 40.000 (16.159) of GradientBoostingClassifier
+Mean Accuracy: 56.667 (12.247) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 53.333 (11.304) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.927 (5.723) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 55.000 (6.667) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (9.718) of AdaBoostClassifier
+Mean Accuracy: 55.000 (8.498) of GradientBoostingClassifier
+Mean Accuracy: 58.333 (9.129) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 45.000 (6.667) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.045 (5.686) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 60.000 (8.165) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 53.333 (11.304) of AdaBoostClassifier
+Mean Accuracy: 60.000 (11.055) of GradientBoostingClassifier
+Mean Accuracy: 60.000 (6.236) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 38.333 (11.304) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.930 (5.655) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 53.333 (11.304) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (3.333) of AdaBoostClassifier
+Mean Accuracy: 53.333 (6.667) of GradientBoostingClassifier
+Mean Accuracy: 61.667 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 60.000 (18.559) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.827 (5.752) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 55.000 (6.667) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (8.165) of AdaBoostClassifier
+Mean Accuracy: 48.333 (3.333) of GradientBoostingClassifier
+Mean Accuracy: 61.667 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 58.333 (15.811) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.065 (5.755) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 50.000 (12.910) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 66.667 (5.270) of AdaBoostClassifier
+Mean Accuracy: 53.333 (6.667) of GradientBoostingClassifier
+Mean Accuracy: 61.667 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 43.333 (6.236) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.763 (5.785) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 58.333 (5.270) of DecisionTreeClassifier
+Mean Accuracy: 66.667 (0.000) of RandomForestClassifier
+Mean Accuracy: 58.333 (5.270) of AdaBoostClassifier
+Mean Accuracy: 60.000 (9.718) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 56.667 (11.055) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.895 (5.751) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.057 (5.678) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 53.333 (18.708) of DecisionTreeClassifier
+Mean Accuracy: 66.667 (0.000) of RandomForestClassifier
+Mean Accuracy: 58.333 (9.129) of AdaBoostClassifier
+Mean Accuracy: 60.000 (6.236) of GradientBoostingClassifier
+Mean Accuracy: 61.667 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 55.000 (15.456) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.913 (5.692) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 45.000 (11.304) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (9.718) of AdaBoostClassifier
+Mean Accuracy: 50.000 (7.454) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 45.000 (15.456) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.833 (5.836) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.058 (5.680) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 51.667 (3.333) of DecisionTreeClassifier
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (6.236) of AdaBoostClassifier
+Mean Accuracy: 60.000 (6.236) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 43.333 (6.236) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.073 (5.732) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 45.000 (21.473) of DecisionTreeClassifier
+Mean Accuracy: 63.333 (4.082) of RandomForestClassifier
+Mean Accuracy: 56.667 (16.159) of AdaBoostClassifier
+Mean Accuracy: 43.333 (19.293) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 48.333 (6.236) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.032 (5.748) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 63.333 (13.540) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 55.000 (8.498) of AdaBoostClassifier
+Mean Accuracy: 58.333 (9.129) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 40.000 (14.337) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.990 (5.614) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 53.333 (6.667) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 51.667 (11.055) of AdaBoostClassifier
+Mean Accuracy: 55.000 (16.330) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 35.000 (18.559) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.005 (5.788) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 53.333 (8.498) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 68.333 (11.055) of AdaBoostClassifier
+Mean Accuracy: 48.333 (9.718) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 40.000 (20.683) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.990 (5.859) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 53.333 (11.304) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 55.000 (6.667) of AdaBoostClassifier
+Mean Accuracy: 46.667 (4.082) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 45.000 (25.604) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.990 (5.847) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 65.000 (8.165) of DecisionTreeClassifier
+Mean Accuracy: 63.333 (4.082) of RandomForestClassifier
+Mean Accuracy: 53.333 (6.667) of AdaBoostClassifier
+Mean Accuracy: 61.667 (15.456) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 40.000 (13.333) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.840 (5.644) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 41.667 (16.667) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (16.997) of AdaBoostClassifier
+Mean Accuracy: 46.667 (13.540) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 46.667 (12.472) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+Mean Accuracy: 64.633 (5.740) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 61.667 (8.498) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (9.718) of AdaBoostClassifier
+Mean Accuracy: 58.333 (11.785) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 55.000 (10.000) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.978 (5.681) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 50.000 (11.785) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 63.333 (6.667) of AdaBoostClassifier
+Mean Accuracy: 50.000 (5.270) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 55.000 (10.000) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.038 (5.652) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 70.000 (8.498) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 63.333 (11.304) of AdaBoostClassifier
+Mean Accuracy: 68.333 (13.333) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 56.667 (9.718) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.083 (5.722) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 45.000 (11.304) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 53.333 (17.951) of AdaBoostClassifier
+Mean Accuracy: 48.333 (12.247) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 50.000 (19.720) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.218 (5.805) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 55.000 (11.304) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 58.333 (9.129) of AdaBoostClassifier
+Mean Accuracy: 51.667 (6.236) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 38.333 (17.159) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.037 (5.736) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 53.333 (16.330) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 58.333 (7.454) of AdaBoostClassifier
+Mean Accuracy: 51.667 (19.293) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 55.000 (10.000) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.848 (5.782) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 56.667 (11.055) of DecisionTreeClassifier
+Mean Accuracy: 66.667 (5.270) of RandomForestClassifier
+Mean Accuracy: 60.000 (9.718) of AdaBoostClassifier
+Mean Accuracy: 61.667 (11.304) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 55.000 (11.304) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.080 (5.870) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.058 (5.680) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 48.333 (13.333) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 58.333 (7.454) of AdaBoostClassifier
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+/Users/jianghaiyan01/opt/anaconda3/envs/t1.7/lib/python3.8/site-packages/sklearn/discriminant_analysis.py:878: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+Mean Accuracy: 50.000 (14.907) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 50.000 (7.454) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.888 (5.746) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 45.000 (6.667) of DecisionTreeClassifier
+Mean Accuracy: 65.000 (3.333) of RandomForestClassifier
+Mean Accuracy: 60.000 (12.247) of AdaBoostClassifier
+Mean Accuracy: 45.000 (6.667) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 48.333 (16.159) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.955 (5.833) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 58.333 (15.811) of DecisionTreeClassifier
+Mean Accuracy: 63.333 (4.082) of RandomForestClassifier
+Mean Accuracy: 65.000 (11.055) of AdaBoostClassifier
+Mean Accuracy: 58.333 (19.003) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 36.667 (4.082) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 64.947 (5.714) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.060 (5.679) of OLS_GD
+Mean Accuracy: 60.000 (14.337) of KNeighborsClassifier
+Mean Accuracy: 65.000 (3.333) of SVC
+Mean Accuracy: 50.000 (18.257) of DecisionTreeClassifier
+Mean Accuracy: 66.667 (5.270) of RandomForestClassifier
+Mean Accuracy: 53.333 (8.498) of AdaBoostClassifier
+Mean Accuracy: 51.667 (9.718) of GradientBoostingClassifier
+Mean Accuracy: 63.333 (4.082) of GaussianNB
+Mean Accuracy: 65.000 (3.333) of LinearDiscriminantAnalysis
+Mean Accuracy: 45.000 (13.540) of QuadraticDiscriminantAnalysis
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+4
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+Mean Accuracy: 65.215 (5.813) of OLS_batchSGD
+0
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+1
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+2
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
+IRLDA Accuracy using normalized w and c:  100.0
+3
+IRLDA Accuracy using w:  100.0
+IRLDA Accuracy using normalized w:  100.0
+IRLDA Accuracy using w and c:  100.0
